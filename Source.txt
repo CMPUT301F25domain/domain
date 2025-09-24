@@ -1,0 +1,37 @@
+Source:
+600 uranium
+Unlimited Water, Quartz
+780 Sulfur
+780 Caterium = 1300 Quickwire
+
+50 Sulfur + 50 Water = 50 Sulfuric
+40 Iron + 40 Coal = 60 Steel
+60 Steel = 15 Steel Beam
+18 Steel Beam + 36 Concrete = 6 Encased
+22.5 RawQuartz = 37.5 Silica
+45 Caterium = 15 Ingot = 75 Caterium
+
+250 Copper Sheets + 1000 Quickwire = 25 AI Limiter
+72 Stator + 48 AI Limiter = 48 ElectroRod
+8 Stator + 4 High-Speed = 8 ElectroRod
+180 Pipe + 150 Concrete = 30 Encased
+
+
+50 uranium + 15 concrete + 40 Sulfuric = 25 Uranium Cell + 10 Sulfuric
+
+600 uranium + 360 Silica + 600 Sulfur + 1800 Quickwire = 480 Uranium Cell
+
+480 Uranium Cell + 28.8 Encased + 48 ElectroRod = 9.6 Uranium Fuel
+
+9.6 Uranium Fuel + 11520 Water = 480 Uranium Waste
+
+
+
+360 Waste + 240 Silica + 144 Nitric + 144 Sulfuric = 480 Non-Fissile + 144 Water
+120 Waste + 480 Non-Fissile = 144 Pellet
+144 Pellet + 288 Concrete = 72 Plutonium Cell
+
+72 Plutonium Cell + 43.2 Steel Beam + 14.4 ElectroRod + 24 Heat Sink = 2.4 Plutonium Fuel
+2.4 Plutonium Fuel + 5760 Water = 24 Plutonium Waste
+
+11520 + 5760 = 
